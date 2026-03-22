@@ -15,7 +15,7 @@ Python CLI application for managing a voter registration system with input valid
 
 1. Download or Clone the repository:
  ```bash  
-git clone https://github.com/khalidSm26/advanced-voting-system.git
+2. git clone https://github.com/khalidSm26/advanced-voting-system.git
 3. Run the program:
 Locate the file named main.py in the downloaded folder
 Open a terminal or command prompt in that folder and run:
