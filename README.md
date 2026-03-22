@@ -15,4 +15,4 @@ Python CLI application for managing a voter registration system with input valid
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/khalidSm26/advanced-voting-system.git
